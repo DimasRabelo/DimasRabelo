@@ -6,7 +6,9 @@
   </h1>
   
   <p align="center">
-    Sou Aluno da Instituição Senac em processo de aprendizagem para me tornar um Desenvolvedor web. 
+   Formado em Bacharelado em TI pela Univesp (Universidade Virtual do Estado de São Paulo);
+   Técnico de Informática - Senac São Miguel Paulista;
+    
     
   </p>
   
