@@ -54,3 +54,25 @@
 </div>
 
 # Profile GitHub
+
+
+
+## 🚀 Projeto 1: Adega Irmandade
+
+**Descrição curta:**  
+Desenvolvimento de site institucional para a Adega Irmandade, com catálogo de produtos, galeria e sistema de contato.
+
+### 📸 Imagens do Projeto
+ 
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Inicial.png" width="125px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Bebidas.png" width="125px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Tabacaria.png" width="125px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Galeria.png" width="125px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Contato.png" width="125px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Admin.png" width="125px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Dashoboard-Gerenciamento.png" width="125px">
+
+</div>
+
