@@ -54,14 +54,32 @@
 </div>
 
 # Profile GitHub
+<br><br>
 
 
-
-## 🚀 Projeto 1: Adega Irmandade
+## 🚀 Projeto 1: Academia viva Bem
 
 **Descrição curta:**  
-Desenvolvimento de site institucional para a Adega Irmandade, com catálogo de produtos, galeria e sistema de contato.
+Desenvolvimento de site institucional para a Academia Viva Bem, com páginas de apresentação, treinos, contato e dashboard administrativo.
 
+### 📸 Imagens do Projeto
+ 
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Inicial-Academia.png" width="125px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Sobre-Academia.png" width="125px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Treino-Academia.png" width="125px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Contato-Academia.png" width="125px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-DashBoard-Academia.png" width="125px">
+
+</div>
+
+<br><br>
+
+## 🚀 Projeto 2: Adega Irmandade
+
+**Descrição curta:**  
+Desenvolvimento de site institucional para a Adega Irmandade, com catálogo de produtos, galeria e sistema de contato, e contém um sistema de Gerenciamento (dashboard administrativo).
 ### 📸 Imagens do Projeto
  
 <div align="center">
@@ -76,3 +94,28 @@ Desenvolvimento de site institucional para a Adega Irmandade, com catálogo de p
 
 </div>
 
+<br><br>
+
+## 🚀 Projeto 3: Distribuidora de Ovos Trindade (Em Desenvolvimento)
+
+**Descrição curta:**  
+Desenvolvimento de um sistema interno para uma loja física, focado no controle de clientes e registro de vendas por atacado e varejo. Projeto criado para facilitar a gestão de pedidos e organizar a carteira de clientes de forma prática e eficiente.
+
+### 📸 Imagens do Projeto
+ 
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Inicial-Ovos-Trindade.png" width="125px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Produtos-Ovos-Trindade.png" width="125px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-QuemSomos-Ovos-Trindade.png" width="125px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Contato-Ovos-Trindade.png" width="125px">
+</div>
+
+<br><br>
+
+🚀 Tecnologias Utilizadas nos Projetos
+Todos os projetos foram desenvolvidos utilizando as seguintes tecnologias principais:
+
+HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, PHPmailer, MySQL e Node.js.
+
+Essas ferramentas foram aplicadas no desenvolvimento de sites institucionais, sistemas de contato via e-mail, dashboards administrativos e gerenciamento de dados.
