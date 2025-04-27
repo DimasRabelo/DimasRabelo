@@ -46,9 +46,11 @@
 
 <div align="center">
 
-  <a href="https://www.instagram.com/dimasrabelosouza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dimasaparecidorabelosouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:dimas_ap_souza@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dimasrabelosouza/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimasaparecidorabelosouza/)
+[![Yahoo](https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:dimas_ap_souza@yahoo.com.br)
+[![MEU PERFIL NA DIO](https://img.shields.io/badge/-DIO.me-%237B42F6?style=for-the-badge)](https://web.dio.me/users/dimasrabelosouza)
+
 </div>
 
 # Profile GitHub
