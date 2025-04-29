@@ -113,9 +113,30 @@ Desenvolvimento de um sistema interno para uma loja física, focado no controle 
 
 <br><br>
 
-🚀 Tecnologias Utilizadas nos Projetos
-Todos os projetos foram desenvolvidos utilizando as seguintes tecnologias principais:
+## 🚀 Projeto 4: Adega Irmandade (Sistema Desktop)
 
-HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, PHPmailer, MySQL e Node.js.
+**Descrição curta:**  
+Sistema desktop desenvolvido para o gerenciamento interno da Adega Irmandade, com funcionalidades para controle de clientes, registro de vendas, administração de produtos e suporte operacional.
 
-Essas ferramentas foram aplicadas no desenvolvimento de sites institucionais, sistemas de contato via e-mail, dashboards administrativos e gerenciamento de dados.
+### 📸 Imagens do Projeto
+ 
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Tela-login.png" width="190px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Tela-Menu.png" width="190px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Tela-funcionario.png" width="190px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Tela-produtos.png" width="190px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/ajuda e suporte.png" width="190px">
+</div>
+
+<br><br>
+
+🚀 Tecnologias Utilizadas
+
+C# (C Sharp)
+
+Windows Forms (.NET Framework)
+
+HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, PHPMailer, Node.js, MySQL;  
+
+Essas ferramentas foram aplicadas no desenvolvimento de Sites institucionais, Sistemas de contato via e-mail, Dashboards Administrativos e Gerenciamento de dados, Sistema Desktop.
