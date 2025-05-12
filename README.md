@@ -123,7 +123,7 @@ Sistema desktop desenvolvido para o gerenciamento interno da Adega Irmandade, co
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Tela-login.png" width="190px">
-  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Tela-Menu.png" width="190px">
+  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Menu-Tela.png.png" width="190px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Tela-funcionario.png" width="190px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Tela-produtos.png" width="190px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/ajuda-e-suporte.png" width="190px">
