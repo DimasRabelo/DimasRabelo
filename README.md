@@ -1,127 +1,117 @@
-<div>
-  
-  <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="#">Dimas Aparecido Rabelo de Souza😃️</a>
-  </h1>
-  
-  <p align="center">
-   Formado em Bacharelado em TI pela Univesp (Universidade Virtual do Estado de São Paulo);
-   Técnico de Informática - Senac São Miguel Paulista;
-    
-    
-  </p>
-  
+<div align="center">
+  <h1>👋 Olá, eu sou o <a href="#">Dimas Aparecido Rabelo de Souza</a> 😃</h1>
 
+  <p>
+    🎓 Formado em <b>Bacharelado em Tecnologia da Informação</b> pela <b>Univesp</b><br>
+    💻 Técnico em Informática - <b>Senac São Miguel Paulista</b><br>
+    📊 Atualmente cursando <b>Bacharelado em Ciência de Dados</b> (iniciado em Julho/2025)<br>
+    🚀 Apaixonado por desenvolvimento web, sistemas desktop e análise de dados.
+  </p>
 </div>
+
+---
+
+> 🌱 Busco aprimorar minhas habilidades em desenvolvimento full stack e ciência de dados, aplicando tecnologia para resolver problemas reais e otimizar processos.
+
+---
 
 <div align="center">
   <a href="https://github.com/DimasRabelo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DimasRabelo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimasRabelo&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimasRabelo&theme=dracula&hide_border=false&layout=compact"/>
   </a>
 </div>
 
-<div align="center" valign="top"><br>
- 
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="node" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-     
-        
-          
-           
-          
+---
 
-  
-           
-          
+## 🧰 Tecnologias que utilizo
 
+**Frontend:**  
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+<img align="center" alt="jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"> 
+<img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 
-  
-</div><br>
+**Backend:**  
+<img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
+<img align="center" alt="Node.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"> 
+<img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+
+**Banco de Dados:**  
+<img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
+**Ferramentas:**  
+<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
+<img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
+<img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
+---
+
+## 🧾 Sobre mim
+
+Sou desenvolvedor com foco em **aplicações web e sistemas desktop**, atualmente expandindo meus conhecimentos para **Ciência de Dados**.  
+Gosto de unir lógica, design e análise para criar soluções completas e funcionais.
+
+---
+
+## 📈 Atividade no GitHub
 
 <div align="center">
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dimasrabelosouza/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimasaparecidorabelosouza/)
-[![Yahoo](https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:dimas_ap_souza@yahoo.com.br)
-[![MEU PERFIL NA DIO](https://img.shields.io/badge/-DIO.me-%237B42F6?style=for-the-badge)](https://web.dio.me/users/dimasrabelosouza)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DimasRabelo&bg_color=282a36&color=79dafa&line=bd93f9&point=ff79c6&area=true&hide_border=true" />
 </div>
 
-# Profile GitHub
-<br><br>
+---
 
+## 🚀 Projetos em Destaque
 
-## 🚀 Projeto 1: Academia viva Bem
+### 🧩 [Academia Viva Bem](https://github.com/DimasRabelo/academia-viva-bem)
+Desenvolvimento de site institucional com páginas de apresentação, treinos, contato e dashboard administrativo.  
+**Tecnologias:** HTML, CSS, JavaScript, PHP, Bootstrap, PHPMailer.
 
-**Descrição curta:**  
-Desenvolvimento de site institucional para a Academia Viva Bem, com páginas de apresentação, treinos, contato e dashboard administrativo.
-
-### 📸 Imagens do Projeto
- 
 <div align="center">
-
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Inicial-Academia.png" width="125px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Sobre-Academia.png" width="125px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Treino-Academia.png" width="125px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Contato-Academia.png" width="125px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-DashBoard-Academia.png" width="125px">
-
 </div>
 
-<br><br>
+---
 
-## 🚀 Projeto 2: Adega Irmandade
+### 🍷 [Adega Irmandade](https://github.com/DimasRabelo/adega-irmandade)
+Site institucional com catálogo de produtos, galeria e sistema de gerenciamento (dashboard administrativo).  
+**Tecnologias:** PHP, MySQL, Bootstrap, JavaScript.
 
-**Descrição curta:**  
-Desenvolvimento de site institucional para a Adega Irmandade, com catálogo de produtos, galeria e sistema de contato, e contém um sistema de Gerenciamento (dashboard administrativo).
-### 📸 Imagens do Projeto
- 
 <div align="center">
-
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Inicial.png" width="125px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Bebidas.png" width="125px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Tabacaria.png" width="125px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Galeria.png" width="125px">
-  <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Contato.png" width="125px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Admin.png" width="125px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Dashoboard-Gerenciamento.png" width="125px">
-
 </div>
 
-<br><br>
+---
 
-## 🚀 Projeto 3: Distribuidora de Ovos Trindade (Em Desenvolvimento)
+### 🥚 [Distribuidora de Ovos Trindade (Em Desenvolvimento)](https://github.com/DimasRabelo/distribuidora-ovos-trindade)
+Sistema interno para controle de clientes e registro de vendas por atacado e varejo.  
+**Tecnologias:** PHP, MySQL, Bootstrap, JS, PHPMailer.
 
-**Descrição curta:**  
-Desenvolvimento de um sistema interno para uma loja física, focado no controle de clientes e registro de vendas por atacado e varejo. Projeto criado para facilitar a gestão de pedidos e organizar a carteira de clientes de forma prática e eficiente.
-
-### 📸 Imagens do Projeto
- 
 <div align="center">
-
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Inicial-Ovos-Trindade.png" width="125px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Produtos-Ovos-Trindade.png" width="125px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-QuemSomos-Ovos-Trindade.png" width="125px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Pagina-Contato-Ovos-Trindade.png" width="125px">
 </div>
 
-<br><br>
+---
 
-## 🚀 Projeto 4: Adega Irmandade (Sistema Desktop)
+### 💻 [Adega Irmandade (Sistema Desktop)](https://github.com/DimasRabelo/adega-irmandade-desktop)
+Sistema desktop para gerenciamento interno da Adega Irmandade, com funcionalidades de controle de clientes, vendas e estoque.  
+**Tecnologias:** C#, .NET Framework, Windows Forms.
 
-**Descrição curta:**  
-Sistema desktop desenvolvido para o gerenciamento interno da Adega Irmandade, com funcionalidades para controle de clientes, registro de vendas, administração de produtos e suporte operacional.
-
-### 📸 Imagens do Projeto
- 
 <div align="center">
- 
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Tela-login.png" width="190px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Menu-Tela.png" width="190px">
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/Tela-funcionario.png" width="190px">
@@ -129,14 +119,19 @@ Sistema desktop desenvolvido para o gerenciamento interno da Adega Irmandade, co
   <img src="https://raw.githubusercontent.com/DimasRabelo/imagens/main/suporte.png" width="190px">
 </div>
 
-<br><br>
+---
 
-🚀 Tecnologias Utilizadas
+## 📫 Contato
 
-C# (C Sharp)
+<div align="center">
 
-Windows Forms (.NET Framework)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimasaparecidorabelosouza/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dimasrabelosouza/)
+[![Yahoo](https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:dimas_ap_souza@yahoo.com.br)
+[![DIO.me](https://img.shields.io/badge/-DIO.me-%237B42F6?style=for-the-badge)](https://web.dio.me/users/dimasrabelosouza)
 
-HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, PHPMailer, Node.js, MySQL;  
+</div>
 
-Essas ferramentas foram aplicadas no desenvolvimento de Sites institucionais, Sistemas de contato via e-mail, Dashboards Administrativos e Gerenciamento de dados, Sistema Desktop.
+---
+
+⭐ _"Aprendizado constante é o combustível da evolução."_  
