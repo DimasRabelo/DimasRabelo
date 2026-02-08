@@ -4,8 +4,7 @@
   <p>
     🎓 Formado em <b>Bacharelado em Tecnologia da Informação</b> pela <b>Univesp</b><br>
     💻 Técnico em Informática - <b>Senac São Miguel Paulista</b><br>
-    📊 Atualmente cursando <b>Bacharelado em Ciência de Dados</b> (iniciado em Julho/2025)<br>
-    🚀 Apaixonado por desenvolvimento web, sistemas desktop e análise de dados.
+    🚀 Apaixonado por desenvolvimento web, sistemas desktop.
   </p>
 </div>
 
