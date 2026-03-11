@@ -10,7 +10,7 @@
 
 ---
 
-> 🌱 Busco aprimorar minhas habilidades em desenvolvimento full stack e ciência de dados, aplicando tecnologia para resolver problemas reais e otimizar processos.
+> 🌱 Busco aprimorar minhas habilidades em desenvolvimento full stack, aplicando tecnologia para resolver problemas reais e otimizar processos.
 
 ---
 
