@@ -2,6 +2,7 @@
   <h1>👋 Olá, eu sou o <a href="#">Dimas Aparecido Rabelo de Souza</a> 😃</h1>
 
   <p>
+    🎓 2026 Cursando - em <b>Bacharelado em Bacharelado em Inteligência Artificial</b> pela <b>Univesp</b><br>
     🎓 Formado em <b>Bacharelado em Tecnologia da Informação</b> pela <b>Univesp</b><br>
     💻 Técnico em Informática - <b>Senac São Miguel Paulista</b><br>
     🚀 Apaixonado por desenvolvimento web, sistemas desktop.
